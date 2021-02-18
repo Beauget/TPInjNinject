@@ -1,0 +1,7 @@
+C:\Users\beaug\Desktop\M1S2\ArchiDistrib\TP1InjectNinja\InjectionTP\InjectionTP\bin\Debug\InjectionTP.exe.config
+C:\Users\beaug\Desktop\M1S2\ArchiDistrib\TP1InjectNinja\InjectionTP\InjectionTP\bin\Debug\InjectionTP.exe
+C:\Users\beaug\Desktop\M1S2\ArchiDistrib\TP1InjectNinja\InjectionTP\InjectionTP\bin\Debug\InjectionTP.pdb
+C:\Users\beaug\Desktop\M1S2\ArchiDistrib\TP1InjectNinja\InjectionTP\InjectionTP\obj\Debug\InjectionTP.csprojAssemblyReference.cache
+C:\Users\beaug\Desktop\M1S2\ArchiDistrib\TP1InjectNinja\InjectionTP\InjectionTP\obj\Debug\InjectionTP.csproj.CoreCompileInputs.cache
+C:\Users\beaug\Desktop\M1S2\ArchiDistrib\TP1InjectNinja\InjectionTP\InjectionTP\obj\Debug\InjectionTP.exe
+C:\Users\beaug\Desktop\M1S2\ArchiDistrib\TP1InjectNinja\InjectionTP\InjectionTP\obj\Debug\InjectionTP.pdb
