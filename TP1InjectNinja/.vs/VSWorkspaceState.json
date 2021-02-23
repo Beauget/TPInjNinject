@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\InjectionTP",
-    "\\InjectionTP\\InjectionTP"
+    "\\InjectionTP\\InjectionTP",
+    "\\InjectionTP\\InjectionTP\\Properties"
   ],
-  "SelectedNode": "\\InjectionTP\\InjectionTP\\ChargementsParametres.cs",
+  "SelectedNode": "\\InjectionTP\\InjectionTP.sln",
   "PreviewInSolutionExplorer": false
 }

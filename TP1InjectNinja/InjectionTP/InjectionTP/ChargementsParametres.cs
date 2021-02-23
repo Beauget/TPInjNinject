@@ -13,7 +13,7 @@ namespace InjectionTP
 
         public Client getClient(string s) {
 
-            return new Client("Test","Jean","DE67ETDG",new ParamClient("jeune dynamique"));
+            return new Client("Test","Jean",s,new ParamClient("jeune dynamique"));
             }
         public ParamClient getParamClient(Client c) {
             return c.i;

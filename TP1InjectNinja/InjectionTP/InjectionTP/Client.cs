@@ -16,5 +16,12 @@ namespace InjectionTP
             this.idClient = id;
             this.i = i;
         }
+
+
+        //Pour vérifier
+        public override string ToString()
+        {
+            return "Le client " + nom + "avec l\'id" + idClient + "de paramètre : " + i;
+        }
     }
 }

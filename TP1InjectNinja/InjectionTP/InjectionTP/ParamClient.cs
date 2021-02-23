@@ -9,5 +9,10 @@
             this.chaine = newChaine;
         }
 
+        public override string ToString()
+        {
+            return chaine;
+        }
+
     }
 }

@@ -15,7 +15,7 @@ namespace InjectionTP
             this.i = newI;
             }
 
-        public ParamClient getParamClient2(string id) {
+        public ParamClient getParamClientTicket(string id) {
             Client c = this.i.getClient(id);
             return i.getParamClient(c);
 

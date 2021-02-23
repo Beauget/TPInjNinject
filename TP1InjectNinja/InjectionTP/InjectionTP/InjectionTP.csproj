@@ -46,6 +46,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ChargementsParametres.cs" />
+    <Compile Include="ChargementsParametresMode2.cs" />
+    <Compile Include="MonModule.cs" />
     <Compile Include="Client.cs" />
     <Compile Include="IChargementParametres.cs" />
     <Compile Include="ParamClient.cs" />
