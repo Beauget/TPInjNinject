@@ -8,7 +8,6 @@ namespace InjectionTP
 {
     class TicketDeCaisse
     {
-        // On remplace les références ChargementsParametres par celle de l'interface
         IChargementParametres i;
         
         public TicketDeCaisse(IChargementParametres newI) {
@@ -20,5 +19,10 @@ namespace InjectionTP
             return i.getParamClient(c);
 
 }
+
+        public void SetChargementParametres(IChargementParametres newI)
+        {
+            this.i = newI;
+        }
     }
 }
