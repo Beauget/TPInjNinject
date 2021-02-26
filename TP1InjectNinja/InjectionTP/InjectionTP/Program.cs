@@ -13,6 +13,8 @@ namespace InjectionTP
         {
 
             //Test mode 0
+
+            Console.WriteLine("Test premier mode Ninject : ");
             IKernel kernel = new StandardKernel(new MonModule(0));
 
             IChargementParametres test;
@@ -22,9 +24,12 @@ namespace InjectionTP
 
 
            Console.WriteLine(ticketTest1.getParamClientTicket("08212"));
-
+            Console.WriteLine("");
+            Console.WriteLine("--------------------------------------");
+            Console.WriteLine("");
 
             //Test mode 1 
+            Console.WriteLine("Test second mode Ninject : ");
             IKernel kernel2 = new StandardKernel(new MonModule(1));
 
             IChargementParametres test2;
